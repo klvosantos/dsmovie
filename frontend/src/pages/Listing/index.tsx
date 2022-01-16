@@ -1,5 +1,5 @@
-import MovieCard from "components/MovieCard";
-import Pagination from "components/Pagination";
+import MovieCard from "Components/MovieCard";
+import Pagination from "Components/Pagination";
 
 function Listing() {
     return (
